@@ -1,4 +1,4 @@
-# Aura Bank
+# Benini Bank
 
 Protótipo de aplicativo bancário desenvolvido em **React Native + TypeScript + Expo**, com foco em fidelidade visual ao design de referência e organização inspirada em **Clean Architecture**.
 
