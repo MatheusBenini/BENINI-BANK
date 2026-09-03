@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Aura Bank",
+    "slug": "aura-bank-new-design",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "aurabank",
+    "userInterfaceStyle": "dark",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#09090B"
+      }
+    }
+  }
+}
